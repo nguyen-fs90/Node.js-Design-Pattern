@@ -1,0 +1,5 @@
+# Run
+
+```javascript
+node main
+```
